@@ -1,4 +1,6 @@
  https://albin396.github.io/Earbuds/
+
+
 Overview
 A dark-luxury, single-file product website for EBuds, a premium earbuds concept brand. The aesthetic is "Obsidian Noir" — deep blacks, warm off-white typography, and a CSS film-grain noise overlay. No build step required; open the .html file directly in any browser.
 Fonts:
